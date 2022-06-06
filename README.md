@@ -39,7 +39,7 @@ I will document my progress in this project through my commits and through the c
 
 ### Links
 
-- Live Site URL: [name of site](URL)
+- Live Site URL: [Play on Codepen!](https://codepen.io/faraja17/full/WNMKVpq)
 
 ## My process
 
