@@ -6,12 +6,11 @@ let randomImageSource = `images/${randomDiceImage}`;
 let image1 = document.querySelectorAll("img")[0];
 
 let randomNumber2 = Math.floor(Math.random() * 6 + 1);
-let randomDiceImage2 = `dice${randomNumber2}.png`;
-let randomImageSource2 = `images/${randomDiceImage2}`;
-let image2 = document.querySelectorAll("img")[1];
+let randomImageSource2 = `images/dice${randomNumber2}.png`; //combined two lines of code. did not have to define variable randomDiceImage.
+
 
 image1.setAttribute("src", randomImageSource);
-image2.setAttribute("src", randomImageSource2);
+document.querySelectorAll("img")[1].setAttribute("src", randomImageSource2); //combined two lines of code. did not have to define variable image2.
 
 
 // Calculate and display outcome of the round.
