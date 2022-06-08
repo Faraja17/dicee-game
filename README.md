@@ -7,7 +7,7 @@ I will document my progress in this project through my commits and through the c
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshots](#screenshots)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -22,19 +22,12 @@ I will document my progress in this project through my commits and through the c
 This assignment involved using query selectors to manipulate the DOM in creating a simple dice game. Dr. Yu provided completed HTML, CSS, and image files. My job was to program the script to get the dice rolling and to announce the winner.
 
 
-### Screenshots
-| <b>Mobile View</b>| 
-|:--:|
-| ![My Solution for Mobile]() |
+### Screenshot
 
-| <b>Desktop View</b>| 
+| | 
 |:--:|
-| ![My Solution for Desktop]() |
-
-| <b>More Screenshots</b> | 
-|:--:|
-| [![Link to Google Slides](link-to-slides.png)](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146) |
-| [Direct Link to Google Presentation](https://docs.google.com/presentation/d/e/2PACX-1vROkxVyUGrL-H86BwdRjp2-pR0OU4mqIA1PmLdf0vh8ypV4msyidQBM9mZgJLeFc7AsDSrrOJjhP8Oe/pub?start=false&loop=false&delayms=3000&slide=id.g1270c083a6c_0_146)|
+| [![Image of Dice Game on Different Devices](https://raw.githubusercontent.com/Faraja17/dicee-game/main/Screen%20Shot%202022-06-08%20at%2010.21.35%20AM.png)](https://ui.dev/amiresponsive?url=https://codepen.io/faraja17/full/WNMKVpq) |
+| [Direct Link to Dicee Game on Am I Responsive Website](https://ui.dev/amiresponsive?url=https://codepen.io/faraja17/full/WNMKVpq)|
 
 
 ### Links
