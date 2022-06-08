@@ -53,7 +53,11 @@ I started out by creating random numbers for the dice using `Math.floor(Math.ran
 - DOM manipulation
 - query selector
 
-I also learned that as a programmer, I need to create a balance between concise and readable code. I was very surprised when I saw that although my program worked, my code was very different from the solution. This was because I had tediously written a line of code for each die outcome (you can view my code on code pen). In the solution, Dr. Yu instead used concatenation to randomize the picture. I realize that I must learn to think in this way, whenever possible, using clever logical ways to reduce the lines of code--let the code do the work for me! Dr. Yu also pointed out that long complex single lines of code are not good for readability, so it is good to find a balance.
+I also learned that as a programmer, I need to create a balance between concise and readable code. I was very surprised when I saw that although my program worked, my code was very different from the solution. This was because I had tediously written a line of code for each die outcome (you can view my code on code pen). In the solution, Dr. Yu instead used concatenation to randomize the picture. 
+
+```let randomImageSource2 = `images/dice${randomNumber2}.png`;```
+
+Through the use of this concatenation Dr. Yu also was able to combine two lines of code, eliminating the need to create a `randomDiceImage` variable (I left the extended way of doing it, for the first die, in my code for reference).  I realize that I must learn to think in this way, whenever possible, using clever logical ways to reduce the lines of code--let the code do the work for me. That is the whole point of writing code! Dr. Yu also stressed that on the other hand, long complex single lines of code are not good for readability, so it is good to find a balance.
 
 ### Continued development
  
