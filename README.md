@@ -32,7 +32,7 @@ This assignment involved using query selectors to manipulate the DOM in creating
 
 ### Links
 
-- Live Site URL: [Play on Codepen!](https://codepen.io/faraja17/full/WNMKVpq)
+- Live Site URL: [Play on Codepen!](https://codepen.io/faraja17/full/WNMKVpq) Refresh browser for each new round.
 
 ## My process
 I started out by creating random numbers for the dice using `Math.floor(Math.random() * 6);` At the time, I knew that this would generate numbers from 0 to 5, but I didn't take the time to research how to change it to 1 to 6. I gained a refresher of adding `+ 1` upon viewing the solution later on.  Instead, I wrote an if statement for each possible die roll starting with if the random number was zero, the die image displayed should be 1. I used the query selector to take each default from the HTML and set its src attribute to the correct random number outcome. Next, I wrote code to calculate and display the outcome of the round, again using the query selector to change the inner HTML of the default `h1`.  Finally, I added meta data and media queries to step it up a notch and make the game responsive.
