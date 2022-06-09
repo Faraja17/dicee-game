@@ -52,7 +52,7 @@ I started out by creating random numbers for the dice using `Math.floor(Math.ran
 - DOM manipulation
 - query selector
 
-I also learned that as a programmer, I need to create a balance between concise and readable code. I was very surprised when I saw that although my program worked, my code was very different from the solution. This was because I had tediously written a line of code for each die outcome (you can view my code on code pen). In the solution, Dr. Yu instead used concatenation to randomize the picture. 
+I also learned that as a programmer, I need to create a balance between concise and readable code. I was very surprised when I saw that although my program worked, my code was very different from the solution. This was because I had tediously written a line of code for each die outcome (you can view my code on code pen). In the solution, Dr. Yu instead used concatenation to randomize the picture. This was possible because the image files had simple names that worked, e.g. "dice1.png".  INGENIUS!
 
 ```let randomImageSource2 = `images/dice${randomNumber2}.png`;```
 
