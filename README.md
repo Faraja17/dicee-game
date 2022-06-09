@@ -14,8 +14,7 @@ I will document my progress in this project through my commits and through the c
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-- [The Directions](#frontend-mentor---qr-code-component) 
+- [Acknowledgments](#acknowledgments) 
 
 ## Overview
 
